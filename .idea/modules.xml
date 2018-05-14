@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Admin\rent-me\app\app.iml" filepath="C:\Users\Admin\rent-me\app\app.iml" />
+      <module fileurl="file://C:\Users\Admin\rent-me\rename.iml" filepath="C:\Users\Admin\rent-me\rename.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rent-me.iml" filepath="$PROJECT_DIR$/rent-me.iml" />
+      <module fileurl="file://C:\Users\Admin\rent-me\rent-me.iml" filepath="C:\Users\Admin\rent-me\rent-me.iml" />
+    </modules>
+  </component>
+</project>
